@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  turbopack: {},
   webpack(config) {
     // Suppress warnings from optional wagmi peer deps that aren't installed
     config.resolve = config.resolve || {};
