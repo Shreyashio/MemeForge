@@ -1,0 +1,81 @@
+{
+  "name": "ForgetCoin",
+  "ticker": "FORG",
+  "tagline": "Losing your seed phrase has never been this lucrative.",
+  "theme": {
+    "primary": "#7c3aed",
+    "secondary": "#db2777",
+    "background": "#0a0a1a",
+    "mood": "dark"
+  },
+  "emoji": "🧠",
+  "hero": {
+    "headline": "The first blockchain built on collective amnesia.",
+    "subtext": "Join 420,000 verified password-forgetters in our revolutionary decentralized ecosystem of helplessness.",
+    "cta": "Ape In (Responsibly)"
+  },
+  "features": [
+    {
+      "title": "Proof-of-Forgetting",
+      "description": "Our proprietary consensus mechanism validates transactions only from wallets whose owners cannot remember their password. True decentralization through selective incompetence."
+    },
+    {
+      "title": "Immutable Support Ticket Ledger",
+      "description": "Every 'I lost my seed phrase' ticket is permanently recorded on-chain, creating an immutable monument to human error at scale."
+    },
+    {
+      "title": "Zero-Knowledge Confusion",
+      "description": "Advanced ZK proofs allow you to prove you've forgotten something without revealing what you've forgotten. Cutting-edge privacy through ignorance."
+    }
+  ],
+  "tokenomics": [
+    { "label": "Lost Forever (Burned)", "percent": 40 },
+    { "label": "Team (Also Lost)", "percent": 20 },
+    { "label": "Marketing (Mostly Misspelled)", "percent": 15 },
+    { "label": "Ecosystem Fund", "percent": 15 },
+    { "label": "Presale (Password: 123456)", "percent": 10 }
+  ],
+  "roadmap": [
+    {
+      "phase": "Q1",
+      "title": "Forget Everything",
+      "items": [
+        "Launch token and immediately lose admin wallet",
+        "Deploy website with placeholder content",
+        "Onboard 10 advisors, lose contact with 8"
+      ]
+    },
+    {
+      "phase": "Q2",
+      "title": "Selective Remembering",
+      "items": [
+        "Remember to market the project",
+        "List on DEX (DEX name TBD, we forgot)",
+        "Launch NFT collection of forgotten passwords"
+      ]
+    },
+    {
+      "phase": "Q3",
+      "title": "Mass Adoption Through Confusion",
+      "items": [
+        "Partner with major password manager (ironic)",
+        "Launch ForgetChain mainnet",
+        "Achieve 1M wallets (600k locked out)"
+      ]
+    }
+  ],
+  "team": [
+    { "name": "Satoshi Nakamoto Jr.", "role": "CEO & Chief Forgetting Officer" },
+    { "name": "Vitalik's Cousin Dmitri", "role": "Head of Blockchain Obfuscation" },
+    { "name": "Anonymous (Literally)", "role": "Lead Security Engineer" }
+  ],
+  "whitepaper": {
+    "abstract": "ForgetCoin (FORG) represents the world's first cryptocurrency ecosystem built entirely around the phenomenon of credential loss. We have identified a $4.2 trillion addressable market in inaccessible crypto wallets and propose to monetize collective human forgetfulness through blockchain technology.",
+    "problem": "Approximately 20% of all Bitcoin is permanently lost due to forgotten passwords, lost seed phrases, and deceased owners who never shared their keys. This represents a catastrophic waste of digital assets. Traditional solutions such as 'writing it down' have proven inadequate, as paper is losable.",
+    "solution": "ForgetCoin introduces a novel Proof-of-Forgetting (PoF) consensus mechanism. Rather than fighting forgetfulness, we embrace it as a core feature. Each forgotten password creates a new block. Each locked wallet contributes to our total value locked (TVL). Losing is winning.",
+    "tokenomics_text": "FORG has a total supply of 1,000,000,000 tokens. 40% is permanently burned (accidentally), ensuring deflationary pressure. The team holds 20% in a wallet whose password has been stored in a location described only as 'somewhere safe.' Marketing receives 15% to spread awareness of our revolutionary forgetting technology.",
+    "risks": "Investors should be aware that the primary risk of FORG is the same as its core thesis: you may forget you own it. Secondary risks include: regulatory clarity (we forgot to check), smart contract audits (scheduled for Q4, date forgotten), and the possibility that our entire technical approach is a parody. It is.",
+    "conclusion": "ForgetCoin stands at the intersection of human psychology and decentralized finance. By transforming forgetfulness from a bug into a feature, we unlock unprecedented value in the attention economy of people who have forgotten what they were doing. Together, we forget. Together, we moon. Probably."
+  },
+  "logo_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='#7c3aed' opacity='0.2'/><circle cx='50' cy='50' r='35' fill='none' stroke='#7c3aed' stroke-width='3'/><text x='50' y='58' text-anchor='middle' font-size='28' fill='#db2777'>🧠</text></svg>"
+}
